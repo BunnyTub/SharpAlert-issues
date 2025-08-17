@@ -1,5 +1,6 @@
+https://bunnytub.com/SharpAlert
 # SharpAlert Issues
-SharpAlert issues can be tracked and reported here, software -> https://bunnytub.com/SharpAlert
+SharpAlert issues can be tracked and reported here.
 
 If you want to report an issue, have problem logs ready. Include them, and also if applicable, explain how the problem may have started, explain what the problem is, and try to be as clear as you can. (example: clicked on X, then did Y)
 
